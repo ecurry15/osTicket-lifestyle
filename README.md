@@ -19,8 +19,7 @@ This project outlines the lifecycle of a ticket from intake to resolution within
 
 - Ticket Creation
 - Assignment and Communication
-- Working the Issue
-- Resolution
+- Working the Issue/ Resolution
 
 <h2>Lifecycle Stages</h2>
 
@@ -28,7 +27,7 @@ This project outlines the lifecycle of a ticket from intake to resolution within
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1. Firstly, I created tickets as if I were an End User(customer). I used the information of the users I created in my previous lab and used this link(http://localhost/osTicket/) to submit the tickets.
 </p>
 <br />
 
@@ -36,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2. Next, I logged into osTicket as one of the Agents(workers) I previously created. This agent has System Admin permissions so I opened one of the tickets and made some changes. The ticket was a severe business impacting event so I changed the Priority to Emergency, The Department to System Admin, the SLA Plan to Sev-A, and assigned the ticket to an agent. Lastly, I wrote a reply to update the customer and let them know the ticket is being worked on.
 </p>
 <br />
 
@@ -44,6 +43,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3. Lastly, after the issue was solved, I wrote a reply to the customer letting them know the problem was resolved. I then resloved(closed) the ticket and the ticket was removed and added to the "closed tickets" section.
 </p>
 <br />
