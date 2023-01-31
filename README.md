@@ -35,7 +35,7 @@ This project outlines the lifecycle of a ticket from intake to resolution within
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2. Next, I logged into osTicket as one of the Agents(workers) I previously created. This agent has System Admin permissions so I opened one of the tickets and made some changes. The ticket was a severe business impacting event so I changed the Priority to Emergency, The Department to System Admin, the SLA Plan to Sev-A, and assigned the ticket to an agent. Lastly, I wrote a reply to update the customer and let them know the ticket is being worked on.
+2. Next, I logged into osTicket as one of the Agents(workers) I previously created. This agent has System Admin permissions, so I opened one of the tickets and made some changes. The ticket was a severe business-impacting event, so I changed the Priority to Emergency, The Department to System Admin, the SLA Plan to Sev-A, and assigned the ticket to an agent. Lastly, I wrote a reply to update the customer and let them know the ticket was being worked on.
 </p>
 <br />
 
@@ -43,6 +43,6 @@ This project outlines the lifecycle of a ticket from intake to resolution within
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. Lastly, after the issue was solved, I wrote a reply to the customer letting them know the problem was resolved. I then resloved(closed) the ticket and the ticket was removed and added to the "closed tickets" section.
+3. Lastly, after the issue was solved, I wrote a reply to the customer letting them know the problem was resolved. I then resolved (closed) the ticket and the ticket was removed and added to the "closed tickets" section.
 </p>
 <br />
