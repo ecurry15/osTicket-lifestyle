@@ -24,7 +24,7 @@ This project outlines the lifecycle of a ticket from intake to resolution within
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/E4VcdL6.png" height="65%" width="65%" alt="Ticket creation"/>
 </p>
 <p>
 1. Firstly, I created tickets as if I were an End User(customer). I used the information of the users I created in my previous lab and used this link(http://localhost/osTicket/) to submit the tickets.
@@ -32,7 +32,16 @@ This project outlines the lifecycle of a ticket from intake to resolution within
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3Mtu1mJ.png" height="65%" width="65%" alt=""/>
+</p>
+<p>
+<img src="https://i.imgur.com/PsIRIFD.png" height="65%" width="65%" alt=""/>
+</p>
+<p>
+<img src="https://i.imgur.com/KQZ4WOE.png" height="65%" width="65%" alt=""/>
+</p>
+<p>
+<img src="https://i.imgur.com/lg32EP6.png" height="65%" width="65%" alt=""/>
 </p>
 <p>
 2. Next, I logged into osTicket as one of the Agents(workers) I previously created. This agent has System Admin permissions, so I opened one of the tickets and made some changes. The ticket was a severe business-impacting event, so I changed the Priority to Emergency, The Department to System Admin, the SLA Plan to Sev-A, and assigned the ticket to an agent. Lastly, I wrote a reply to update the customer and let them know the ticket was being worked on.
@@ -40,7 +49,10 @@ This project outlines the lifecycle of a ticket from intake to resolution within
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RI3lQHi.png" height="65%" width="65%" alt=""/>
+</p>
+<p>
+<img src="https://i.imgur.com/kYxNcXy.png" height="65%" width="65%" alt=""/>
 </p>
 <p>
 3. Lastly, after the issue was solved, I wrote a reply to the customer letting them know the problem was resolved. I then resolved (closed) the ticket and the ticket was removed and added to the "closed tickets" section.
